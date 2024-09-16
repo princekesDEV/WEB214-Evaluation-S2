@@ -19,6 +19,8 @@ footer {
 
 #footer > div > p {
   margin-bottom: 50px;
+  line-height: 25px;
+  font-family: "Playpen Sans", cursive;
 }
 
 #quick-links,
