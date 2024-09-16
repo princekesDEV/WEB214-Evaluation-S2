@@ -1,0 +1,21 @@
+.teachers-cards {
+  display: flex;
+  width: 70%;
+  margin: auto;
+  justify-content: space-between;
+  margin-top: 90px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.teachers-card {
+  text-align: center;
+  width: 23%;
+}
+
+.teachers-card > img {
+  width: 100%;
+}
+
+.teachers-card > h3 {
+  margin: 20px 0px 5px 0px;
+}

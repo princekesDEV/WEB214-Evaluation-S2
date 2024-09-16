@@ -1,0 +1,7 @@
+.cur {
+  cursor: pointer;
+}
+
+.cur:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,42 @@
+footer {
+  padding-top: 50px;
+  padding-right: 150px;
+  padding-left: 150px;
+  padding-bottom: 50px;
+}
+
+#footer {
+  /* padding: 50px; */
+  background-color: rgb(66, 85, 164);
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+#footer > div > img {
+  margin-bottom: 30px;
+}
+
+#footer > div > p {
+  margin-bottom: 50px;
+}
+
+#quick-links,
+#about-us {
+  display: flex;
+  margin-left: 70px;
+  flex-direction: column;
+}
+
+#quick-links > h2,
+#about-us > h2 {
+  margin-bottom: 30px;
+  font-size: 20px;
+  font-weight: 800;
+  font-family: "Playpen Sans", cursive;
+}
+
+#quick-links > span,
+#about-us > span {
+  margin-bottom: 20px;
+}
